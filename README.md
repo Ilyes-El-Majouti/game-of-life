@@ -1,3 +1,5 @@
+<img src="https://repository-images.githubusercontent.com/572277884/983b8d6b-211b-43e9-b9e1-efad77f254e0" />
+
 ## **Jeu de la vie**
 
 ##### Le jeu de la vie est une modélisation simpliste de la vie de cellules dans l'espace. Dans le cadre de cet exercice l'espace sera une grille rectangulaire dont chaque case peut contenir au plus une cellule. Chaque case contiendra donc soit 0 soit 1 cellule en vie. 
