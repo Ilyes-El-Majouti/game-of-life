@@ -4,12 +4,9 @@ import time
 class JeuVie:
     def __init__(self, ligne, colonne):
         """
-            //Création d'une grille 2D avec deux paramètres ligne et colonne.
+            Création d'une grille 2D avec deux paramètres ligne et colonne.
             Initialisation de la grille avec des valeurs aléatoires
             (1=vivant ou 0=mort)
-        """
-        """
-            verif a faire
         """
         self.ligne = ligne
         self.colonne = colonne
